@@ -1,4 +1,4 @@
-"# OAuth2.0-server-sample" 
+Samples for Understanding OAuth2 and Building a Basic Authorization Server of Your Own Beginner's Guide
 
 Install
 pip install flask requests
